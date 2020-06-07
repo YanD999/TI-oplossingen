@@ -66,7 +66,7 @@ Vergeet niet te restarten als je de addon hebt geïnstalleerd.
 
 <img src="img/image-20200508220746127.png" alt="image-20200508220746127" width="50%;" />
 
-Doe gewoon dit, maar dan met alle culumns geselecteerd.
+Doe gewoon dit, maar dan met alle columns geselecteerd.
 
 
 
